@@ -112,3 +112,4 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+P.S. I removed the names of the X axis in plot 4 and fixed the names of the Y axis to make the graphs look more consistent, so my plots slightly differ from the ones in the description
